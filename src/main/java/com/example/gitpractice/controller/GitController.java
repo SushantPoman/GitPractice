@@ -8,7 +8,7 @@ public class GitController {
 
 	@GetMapping("/greet")
 	public String greet() {
-		return "Welcome to Git practice";
+		return "Welcome to Git practice from STS";
 	}
 	
 }
